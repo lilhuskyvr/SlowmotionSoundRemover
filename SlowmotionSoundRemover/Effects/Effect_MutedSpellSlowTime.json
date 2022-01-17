@@ -1,0 +1,9 @@
+{
+  "$type": "ThunderRoad.EffectData, ThunderRoad",
+  "id": "MutedSpellSlowTime",
+  "saveFolder": "bas",
+  "version": 0,
+  "groupId": "SlowTime",
+  "volumeDb": 0.0,
+  "modules": []
+}

@@ -1,0 +1,17 @@
+{
+  "$type": "ThunderRoad.LevelData, ThunderRoad",
+  "id": "Master",
+  "version": 3,
+  "modes": [
+    {
+      "name": "Default",
+      "modules": [
+        {
+          "$type": "SlowmotionSoundRemover.Patch.SlowmotionSoundRemoverPatchLevelModule, SlowmotionSoundRemover",
+          "hasHeartbeatSound": false,
+          "hasAudioMixer": false
+        }
+      ]
+    }
+  ]
+}
